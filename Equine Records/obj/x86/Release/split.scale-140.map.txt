@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\Wide310x150Logo.scale-140.png"			"Assets\Wide310x150Logo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\Square70x70Logo.scale-140.png"			"Assets\Square70x70Logo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\Square310x310Logo.scale-140.png"			"Assets\Square310x310Logo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
+"C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"

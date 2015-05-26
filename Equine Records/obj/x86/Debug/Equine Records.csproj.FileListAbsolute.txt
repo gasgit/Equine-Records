@@ -1,0 +1,70 @@
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\App.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\AboutPage.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Create New Entry.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\MainPage.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\NewsLinks.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\PrivacyPolicy.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Records.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\SearchResultsPage.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Settings.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.xr.xml
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.exe
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.pdb
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\resources.pri
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\AppxManifest.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.build.appxrecipe
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\App.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\App.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\AboutPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\AboutPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Create New Entry.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Create New Entry.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\MainPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\NewsLinks.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\NewsLinks.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\PrivacyPolicy.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\PrivacyPolicy.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Records.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Records.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\SearchResultsPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\SearchResultsPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Settings.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Settings.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\App.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\AboutPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Create New Entry.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\MainPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\NewsLinks.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\PrivacyPolicy.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Records.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\SearchResultsPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Settings.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\App.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\AboutPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Create New Entry.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\MainPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\NewsLinks.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\PrivacyPolicy.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Records.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\SearchResultsPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Settings.xbf
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Equine Records.exe
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Equine Records.pdb
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\Equine Records.csproj.GenerateResource.Cache
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\priconfig.xml
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\layout.resfiles
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\resources.resfiles
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\pri.resfiles
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\qualifiers.txt
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Glen\Documents\Visual Studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.exe.CodeAnalysisLog.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.exe.lastcodeanalysissucceeded

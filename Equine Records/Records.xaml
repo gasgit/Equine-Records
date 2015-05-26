@@ -1,0 +1,116 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Equine_Records.Records"
+     DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Equine_Records"
+    xmlns:common="using:Equine_Records"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Records</x:String>           
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button" />
+            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+            <SearchBox x:Name="myRecordsSearchBox"
+        Grid.Column="1"
+        Height="35"  Margin="898,65,22,40" QuerySubmitted="myRecordsSearchBox_QuerySubmitted" Width="326"  />
+        </Grid>
+        <Canvas Margin="240,36,10,47" Grid.Row="1">
+            <StackPanel HorizontalAlignment="Left" Height="545" VerticalAlignment="Top" Width="326" Canvas.Top="-22" Canvas.Left="38">
+                <TextBlock TextWrapping="Wrap" Text="Rider Name" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtRiderOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Venue" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtVenueOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Event" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtEventOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Date" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtDateOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Horse" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtHorseOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Horse Height" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtHorseHeightOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Horse Age" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtHorseAgeOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Horse Breed" FontSize="18.667" Height="25"/>
+                <TextBox x:Name="txtHorseBreedOut" TextWrapping="Wrap" IsReadOnly="True"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left" Height="545" VerticalAlignment="Top" Width="326" Canvas.Left="408" Canvas.Top="-22">
+                <TextBlock TextWrapping="Wrap" Text="Horse Sex" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtHorseSexOut" TextWrapping="Wrap" Height="25" FontSize="14.667" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Entry Cost" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtEntryCostOut" TextWrapping="Wrap" FontSize="14.667" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Round" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtRoundOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Finish Time" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtFinishTime" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Position" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtPositionOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Fence Height" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtFenceHeightOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Clears" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtClearsOut" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Faults" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtFaultsOut" TextWrapping="Wrap" IsReadOnly="True"/>
+            </StackPanel>
+            <Button x:Name="btnDelete" Content="Delete" Canvas.Left="37" Canvas.Top="482" Click="btnDelete_Click">
+                <Button.Flyout>
+                    <Flyout>
+                        <StackPanel>
+                            <TextBlock Style="{StaticResource BaseTextBlockStyle}">
+                                     Item will be permanently removed.
+                            </TextBlock>
+                            <Button Click="DeleteConfirmation_Click" Margin="0,5,0,0">
+                                Delete
+                            </Button>
+                        </StackPanel>
+                    </Flyout>
+                </Button.Flyout>
+            </Button>
+            <StackPanel HorizontalAlignment="Left" Height="545" VerticalAlignment="Top" Width="326" Canvas.Top="-23" Canvas.Left="780">
+                <TextBlock TextWrapping="Wrap" Text="Points" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtPointsout" TextWrapping="Wrap" IsReadOnly="True"/>
+                <TextBlock TextWrapping="Wrap" Text="Comments" Height="25" FontSize="18.667"/>
+                <TextBox x:Name="txtCommentsOut" TextWrapping="Wrap" Height="140"/>
+                <TextBlock TextWrapping="Wrap" Text="Image" Height="25" FontSize="18.667"/>
+                <Image x:Name="myImage"  Height="210" />
+                <!--<Button x:Name="btnFilePicker" Content="Image" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="btnFilePicker_Click" Width="77" Margin="0,40,249,0" d:IsHidden="True"/>-->
+            </StackPanel>
+        </Canvas>
+        <ListView x:Name="myListView" HorizontalAlignment="Left" Height="578" Margin="44,40,0,0" Grid.Row="1" VerticalAlignment="Top" Width="181" Tapped="myLs_Tapped"/>
+        <TextBlock HorizontalAlignment="Left" Margin="45,14,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Select" VerticalAlignment="Top" Height="25" FontSize="18.667" Width="181"/>
+    </Grid>
+</Page>

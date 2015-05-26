@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x64\Release\Equine Records_1.1.0.0_Bundle\Equine Records_1.1.0.0_x64.appx
+SymbolPackage=C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\AppPackages\Equine Records_1.1.0.0_Test\Equine Records_1.1.0.0_x64.appxsym
+ResourcePack=C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x64\Release\Equine Records_1.1.0.0_Bundle\Equine Records_1.1.0.0_scale-140.appx
+ResourcePack=C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x64\Release\Equine Records_1.1.0.0_Bundle\Equine Records_1.1.0.0_scale-180.appx

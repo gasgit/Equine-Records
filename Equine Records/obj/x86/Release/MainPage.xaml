@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Equine_Records.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Equine_Records"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+   
+
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        	<StackPanel Margin="438,245,438,178" Orientation="Vertical">
+        		<Button x:ConnectionId='1' x:Name="btnNewEntry" Content="Create New Entry" HorizontalAlignment="Left" VerticalAlignment="Top" Width="441" Height="75"                           Margin="20" FontSize="21.333"/>
+        		<Button x:ConnectionId='2' x:Name="btnRecords" Content="Records List" HorizontalAlignment="Left" VerticalAlignment="Top" Height="74" Width="441"                      Margin="20" FontSize="21.333"/>
+        		<Button x:ConnectionId='3' x:Name="btnLinks" Content="News Links" HorizontalAlignment="Left" VerticalAlignment="Top" Width="441" Height="71"                        Margin="20" FontSize="21.333"/>
+
+        	</StackPanel>
+        	<TextBlock HorizontalAlignment="Left" Margin="462,102,0,0" TextWrapping="Wrap" Text="Equine Records" VerticalAlignment="Top" Width="500" Height="80" FontSize="64" FontFamily="Segoe UI"/>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,63 @@
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\App.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\AboutPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Create New Entry.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\MainPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\NewsLinks.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\PrivacyPolicy.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Records.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\SearchResultsPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Equine Records.xr.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Equine Records.exe
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Equine Records.pdb
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\resources.pri
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\AppxManifest.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\ARM\Release\Equine Records.build.appxrecipe
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\App.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\App.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\AboutPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\AboutPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Create New Entry.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Create New Entry.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\MainPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\NewsLinks.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\NewsLinks.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\PrivacyPolicy.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\PrivacyPolicy.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Records.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Records.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\SearchResultsPage.g.i.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\SearchResultsPage.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\App.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\AboutPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\MainPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\NewsLinks.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\PrivacyPolicy.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\SearchResultsPage.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\App.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\AboutPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\MainPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\NewsLinks.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\PrivacyPolicy.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\SearchResultsPage.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Create New Entry.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Records.xaml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Create New Entry.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Records.xbf
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Equine Records.exe
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Equine Records.pdb
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\Equine Records.csproj.GenerateResource.Cache
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\priconfig.xml
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\layout.resfiles
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\resources.resfiles
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\pri.resfiles
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\qualifiers.txt
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\ARM\Release\ProjectArchitectures.txt

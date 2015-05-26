@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GLEN8</Machine>
+    <WindowsUser>Glen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ce9bd3b9-7acc-4989-850e-0ca7e40e94dd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>654045BEC37658297408022328F8350E74030C7DF9ACC573F4AA060452DA9D21</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ce9bd3b9-7acc-4989-850e-0ca7e40e94dd_1.0.0.0_x86__k4gct3rg9vpac</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ce9bd3b9-7acc-4989-850e-0ca7e40e94dd_k4gct3rg9vpac!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ce9bd3b9-7acc-4989-850e-0ca7e40e94dd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Glen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T00:48:25.916</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.exe">
+      <PackagePath>Equine Records.exe</PackagePath>
+      <Modified>2015-04-30T00:40:26.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.9\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-04-09T14:47:08.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2015-04-29T22:12:11.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <Modified>2015-04-29T22:12:11.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <Modified>2015-04-29T22:12:11.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-29T22:12:11.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\Data\JSONFile.txt">
+      <PackagePath>Data\JSONFile.txt</PackagePath>
+      <Modified>2015-04-29T16:40:11.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-25T17:51:35.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+      <Modified>2015-04-29T17:28:51.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Create New Entry.xbf">
+      <PackagePath>Create New Entry.xbf</PackagePath>
+      <Modified>2015-04-25T17:51:35.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-25T17:51:35.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\NewsLinks.xbf">
+      <PackagePath>NewsLinks.xbf</PackagePath>
+      <Modified>2015-04-29T23:10:52.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\PrivacyPolicy.xbf">
+      <PackagePath>PrivacyPolicy.xbf</PackagePath>
+      <Modified>2015-04-29T17:28:51.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Records.xbf">
+      <PackagePath>Records.xbf</PackagePath>
+      <Modified>2015-04-25T21:39:34.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+      <Modified>2015-04-29T23:46:00.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+      <Modified>2015-04-25T21:39:34.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\Equine Records.xr.xml">
+      <PackagePath>Equine Records.xr.xml</PackagePath>
+      <Modified>2015-04-29T23:40:04.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glen\documents\visual studio 2013\Projects\Equine Records\Equine Records\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-30T00:48:25.841</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Equine_Records.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Equine_Records"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="btnNewEntry" Content="Create New Entry" HorizontalAlignment="Left" Margin="446,267,0,0" VerticalAlignment="Top" Width="441" Height="75"                          />
+        <Button x:ConnectionId='2' x:Name="btnRecords" Content="Records List" HorizontalAlignment="Left" Margin="446,390,0,0" VerticalAlignment="Top" Height="74" Width="441"                     />
+        <Button x:ConnectionId='3' x:Name="btnLinks" Content="News Links" HorizontalAlignment="Left" Margin="446,514,0,0" VerticalAlignment="Top" Width="441" Height="71"                       />
+
+    </Grid>
+</Page>
+
